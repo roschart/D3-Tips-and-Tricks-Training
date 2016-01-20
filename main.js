@@ -1,1 +1,1 @@
-//document.getElementById('content').innerHTML="test lifeReload";
+document.getElementById('content').innerHTML = 'test lifeReload'
