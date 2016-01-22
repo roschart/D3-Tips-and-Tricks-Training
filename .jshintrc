@@ -18,6 +18,7 @@
     "smarttabs": false,
     "quotmark": "single",
     "globals": {
+      "d3":true
     },
     "indent": 2,
     "devel": false,

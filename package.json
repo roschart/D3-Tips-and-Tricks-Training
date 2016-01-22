@@ -48,5 +48,8 @@
     "live-reload": "^1.1.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.6.1"
+  },
+  "standard": {
+    "globals": [ "d3" ]
   }
 }
