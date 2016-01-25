@@ -1,5 +1,5 @@
 {
-    "node": false,
+    "node": true,
     "browser": true,
     "esnext": true,
     "bitwise": false,
@@ -8,6 +8,7 @@
     "eqeqeq": true,
     "immed": true,
     "latedef": true,
+    "module": true,
     "newcap": true,
     "noarg": true,
     "regexp": true,
